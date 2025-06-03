@@ -1,0 +1,48 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color: red;
+    
+}
+
+li {
+    color: rgb(253, 2, 240);
+}
+
+div {
+    background-color: aqua;
+}
+
+header {
+    background-color: rgb(20, 20, 255);
+
+}
+
+header section h2 {
+    background-color: darkgoldenrod;
+}
+
+.banners {
+    background-color: khaki;
+}
+
+#oferta {
+    background-color: red;
+}
+
+a {
+    color: green;
+}
+
+a:hover {
+    color: rgba(255, 0, 0, 0.736);
+    font-size: larger;
+}
+
+img:hover {
+    scale: 1.05;
+}
